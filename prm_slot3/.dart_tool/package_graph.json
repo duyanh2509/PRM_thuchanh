@@ -1,0 +1,21 @@
+{
+  "roots": [
+    "prm_slot3"
+  ],
+  "packages": [
+    {
+      "name": "prm_slot3",
+      "version": "1.0.0",
+      "dependencies": [],
+      "devDependencies": [
+        "lints"
+      ]
+    },
+    {
+      "name": "lints",
+      "version": "3.0.0",
+      "dependencies": []
+    }
+  ],
+  "configVersion": 1
+}
